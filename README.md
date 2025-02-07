@@ -30,4 +30,4 @@ Este es un sistema de gestión diseñado para barberías que permite registrar v
 ### Pasos para instalar
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/sistema-barberia.git
+   git clone https://github.com/franklg1911/sistema-barberia.git
