@@ -21,7 +21,7 @@ Este proyecto es un sistema de gestión para una barbería. Permite administrar 
    ```bash
    git clone https://github.com/franklg1911/sistema-barberia.git
    ```
-2. Importa la base de datos `sistema_barberia.sql` en MySQL.
+2. Importa la base de datos `db/script.sql` en MySQL.
 3. Configura el archivo `config.php` con tus credenciales de base de datos.
 4. Inicia el servidor Apache y MySQL desde el panel de control de XAMPP.
 5. Accede al sistema desde tu navegador en `http://localhost/sistema-barberia`.
