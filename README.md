@@ -19,7 +19,7 @@ Este proyecto es un sistema de gestión para una barbería. Permite administrar 
 
 1. Clona el repositorio en tu directorio de XAMPP:
    ```bash
-   git clone https://github.com/tu-usuario/sistema-barberia.git
+   git clone https://github.com/franklg1911/sistema-barberia.git
    ```
 2. Importa la base de datos `sistema_barberia.sql` en MySQL.
 3. Configura el archivo `config.php` con tus credenciales de base de datos.
